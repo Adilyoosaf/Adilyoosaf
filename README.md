@@ -25,7 +25,7 @@ technology. My current modules include:
 - Communiction: Strong written and verbal communication skills  
 - Teamwork: Group project 
 
-🔨** Recent Projects:**
+🔨**Recent Projects:**
 - Here are some of the exciting projects I’ve worked on recently:  
   1. Decryption Techniques  
    - Explored and implemented decryption methods like the Vigenère cipher and Caesar cipher to unlock encoded messages.  

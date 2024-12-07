@@ -9,8 +9,8 @@ Welcome to my GitHub portfolio. My computer science path is reflected in this re
 - Pursuing Bsc in Computer science
 - 🧑 Male
 - 🎮 Fun facts: Gaming- Often play games to relief my stress
-- 🥘 Fun facts: Cooking- Always try to cook something new often result in creative meals
-  
+- 🥘 Fun facts: Cooking- Try to cook new meals to be creative
+    
 🛠️** What I’m Doing:**
 - I am currently in my first year of **BSc Computer Science**, diving into core areas of 
 technology. My current modules include:  

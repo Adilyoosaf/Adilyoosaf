@@ -5,13 +5,13 @@ Welcome to my GitHub portfolio. My computer science path is reflected in this re
 👋 Hi, I’m Adhil Yoosaf
   
 👀** About ME:**
-- Originally from India now studying in the UK, moved here on spetember 2024
-- Pursuing Bsc in Computer science
+- Originally from India now studying in the UK, moved here on september 2024
+- Doing first year Bsc in Computer science
 - 🧑 Male
 - 🎮 Fun facts: Gaming- Often play games to relief my stress
 - 🥘 Fun facts: Cooking- Try to cook new meals to be creative
     
-🛠️** What I’m Doing:**
+🛠️**What I’m Doing:**
 - I am currently in my first year of **BSc Computer Science**, diving into core areas of 
 technology. My current modules include:  
  - Professionalism, Employability, and Enterprise  
